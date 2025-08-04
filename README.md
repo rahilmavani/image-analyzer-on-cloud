@@ -1,5 +1,3 @@
-# image-analyzer-on-cloud
-Uses web services of AWS to analyze and extract tags from images.
 # 📷 Image Analyzer on Cloud
 
 **A cloud-based application that allows users to upload an image and receive a detailed analysis of its content via email and on the web interface.**
